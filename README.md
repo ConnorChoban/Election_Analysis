@@ -6,10 +6,12 @@ The purpose of this election audit analysis is to create a script that can be ap
 
 Election Audit Results
 
-- There were ? votes casted in this election
+- There were 369,711 votes cast in this election.
 - The number of votes per county was:
-- ? County had the highest number of votes
-- 
+- Denver County had the highest number of votes at 306,055, representing 82.8% of all voters.
+- Breakdown
+- The winner of this election was Diana Degette, who received 272,892 votes, representing 73.8% of all votes cast. 
+
 
 Election Audit Summary
 
