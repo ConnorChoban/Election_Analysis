@@ -15,3 +15,7 @@ Election Audit Results
 
 Election Audit Summary
 
+This code is designed specifically for counting votes in the Colorado election. By making some changes to the code below, we can make this code aplicable to any election. 
+
+
+
