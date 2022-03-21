@@ -6,6 +6,8 @@ The purpose of this election audit analysis is to create a script that can be ap
 
 Election Audit Results
 
+<img width="464" alt="Screen Shot 2022-03-21 at 4 31 19 AM" src="https://user-images.githubusercontent.com/99847786/159226941-7355b650-1552-4e67-bc56-5840a0762603.png">
+
 - There were 369,711 votes cast in this election.
 - The number of votes per county was:
 - Denver County had the highest number of votes at 306,055, representing 82.8% of all voters.
