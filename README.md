@@ -20,11 +20,8 @@ Election Audit Summary
 
 This code is designed specifically for counting votes in the Colorado election. By making some changes to the code below, we can make this code aplicable to any election. 
 
-This script uses a dictionary that includes the name of the counties where the election took place and data regarding their respective voting populations. In order to be used for other elections, the dictionary will need to be changed to reflect the location, candidates, and other data specific to the area where the election will be held. Additionally, the script can be changed to display different information on request. For example, if instead of displaying the county with the largest voter turnout, if we wanted to explore trends regarding low voter participation, we could change the below code to reflect the "losing county" or the country with the lowest participation rate.
+This script uses a dictionary that includes the name of the counties where the election took place and data regarding their respective voting populations. In order to be used for other elections, the dictionary will need to be changed to reflect the location, candidates, and other data specific to the area where the election will be held. Additionally, the script can be changed to display different information on request. For example, if instead of displaying the county with the largest voter turnout, if we wanted to explore trends regarding low voter participation, we could change the code to reflect the "losing county" or the country with the lowest participation rate.
 
-winning_county=""
-winning_county_count=0
-winning_county_percentage=0
 
 
 
